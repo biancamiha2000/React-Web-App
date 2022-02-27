@@ -1,0 +1,140 @@
+{
+  "blogs": [
+    {
+      "lastName": "Bianca",
+      "firstName": "Mihaela",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Pitesti",
+      "state": "Arges",
+      "phoneNo": "0726223446",
+      "ssn": "60028474939",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 80
+    },
+    {
+      "lastName": "Andrei",
+      "firstName": "Chita",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Vama veche",
+      "state": "Constanta",
+      "phoneNo": "0735374768",
+      "ssn": "4639472846837",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 81
+    },
+    {
+      "lastName": "Badea",
+      "firstName": "Alexandru",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Bucuresti",
+      "state": "Romania",
+      "phoneNo": "0735327387",
+      "ssn": "573837482733",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 82
+    },
+    {
+      "lastName": "armand",
+      "firstName": "dadsa",
+      "streetName": "N. Balcescu",
+      "streetNo": "3",
+      "city": "pitesti",
+      "state": "romania",
+      "phoneNo": "0723667162",
+      "ssn": "5001122033358",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 83
+    },
+    {
+      "lastName": "armand",
+      "firstName": "dadsa",
+      "streetName": "",
+      "streetNo": "",
+      "city": "pitesti",
+      "state": "romania",
+      "phoneNo": "0723667162",
+      "ssn": "5001122033358",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 84
+    },
+    {
+      "lastName": "Lorem",
+      "firstName": "Ipsum",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Atena",
+      "state": "Roma",
+      "phoneNo": "0736383826",
+      "ssn": "73829462836",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 85
+    },
+    {
+      "lastName": "Lorem",
+      "firstName": "Ipsum",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Atena",
+      "state": "Roma",
+      "phoneNo": "0736383826",
+      "ssn": "73829462836",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 86
+    },
+    {
+      "lastName": "Claudia",
+      "firstName": "Balan",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Pitesti",
+      "state": "Romania",
+      "phoneNo": "08363832738",
+      "ssn": "73839327822821",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 87
+    },
+    {
+      "lastName": "Test",
+      "firstName": "Test",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Testino",
+      "state": "Testimoso",
+      "phoneNo": "0374628638282",
+      "ssn": "937282738273",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 88
+    },
+    {
+      "lastName": "Ultima",
+      "firstName": "Incercare",
+      "streetName": "",
+      "streetNo": "",
+      "city": "Milano",
+      "state": "Italia",
+      "phoneNo": "83729738372",
+      "ssn": "93738282738728",
+      "question": "NO",
+      "licensePlate": "",
+      "id": 89
+    }
+  ],
+  "stats": {
+    "total": 97,
+    "current": 10,
+    "edited": 15,
+    "deleted": 81
+  }
+}
